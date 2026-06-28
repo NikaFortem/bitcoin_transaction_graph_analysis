@@ -1,4 +1,4 @@
-# bitcoin_transaction_graph_analysis
+by Viktoria Karpeykina
 ________________________________________
 ## ML approach for transactional analysis of crypto network users
 
